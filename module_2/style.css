@@ -77,7 +77,7 @@ span {
 
 /***Mobile***/
 @media (max-width: 767px) {
-	.cx-12 {
+	.col-sg-12 {
 		float: left;
 		width: 100%;
 	}
